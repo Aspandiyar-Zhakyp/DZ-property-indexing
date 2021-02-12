@@ -1,0 +1,4 @@
+C:\Users\Esetb\source\repos\PropertyIndexing\PropertyIndexing\obj\Debug\netcoreapp3.1\PropertyIndexing.csprojAssemblyReference.cache
+C:\Users\Esetb\source\repos\PropertyIndexing\PropertyIndexing\obj\Debug\netcoreapp3.1\PropertyIndexing.AssemblyInfoInputs.cache
+C:\Users\Esetb\source\repos\PropertyIndexing\PropertyIndexing\obj\Debug\netcoreapp3.1\PropertyIndexing.AssemblyInfo.cs
+C:\Users\Esetb\source\repos\PropertyIndexing\PropertyIndexing\obj\Debug\netcoreapp3.1\PropertyIndexing.csproj.CoreCompileInputs.cache

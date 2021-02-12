@@ -1,0 +1,13 @@
+C:\Users\Esetb\source\repos\PropertyIndexing\PropertyIndexing\bin\Debug\netcoreapp3.1\PropertyIndexingHW.exe
+C:\Users\Esetb\source\repos\PropertyIndexing\PropertyIndexing\bin\Debug\netcoreapp3.1\PropertyIndexingHW.deps.json
+C:\Users\Esetb\source\repos\PropertyIndexing\PropertyIndexing\bin\Debug\netcoreapp3.1\PropertyIndexingHW.runtimeconfig.json
+C:\Users\Esetb\source\repos\PropertyIndexing\PropertyIndexing\bin\Debug\netcoreapp3.1\PropertyIndexingHW.runtimeconfig.dev.json
+C:\Users\Esetb\source\repos\PropertyIndexing\PropertyIndexing\bin\Debug\netcoreapp3.1\PropertyIndexingHW.dll
+C:\Users\Esetb\source\repos\PropertyIndexing\PropertyIndexing\bin\Debug\netcoreapp3.1\PropertyIndexingHW.pdb
+C:\Users\Esetb\source\repos\PropertyIndexing\PropertyIndexing\obj\Debug\netcoreapp3.1\PropertyIndexingHW.csprojAssemblyReference.cache
+C:\Users\Esetb\source\repos\PropertyIndexing\PropertyIndexing\obj\Debug\netcoreapp3.1\PropertyIndexingHW.AssemblyInfoInputs.cache
+C:\Users\Esetb\source\repos\PropertyIndexing\PropertyIndexing\obj\Debug\netcoreapp3.1\PropertyIndexingHW.AssemblyInfo.cs
+C:\Users\Esetb\source\repos\PropertyIndexing\PropertyIndexing\obj\Debug\netcoreapp3.1\PropertyIndexingHW.csproj.CoreCompileInputs.cache
+C:\Users\Esetb\source\repos\PropertyIndexing\PropertyIndexing\obj\Debug\netcoreapp3.1\PropertyIndexingHW.dll
+C:\Users\Esetb\source\repos\PropertyIndexing\PropertyIndexing\obj\Debug\netcoreapp3.1\PropertyIndexingHW.pdb
+C:\Users\Esetb\source\repos\PropertyIndexing\PropertyIndexing\obj\Debug\netcoreapp3.1\PropertyIndexingHW.genruntimeconfig.cache
