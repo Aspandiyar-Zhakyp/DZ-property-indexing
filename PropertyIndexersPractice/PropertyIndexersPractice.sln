@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyIndexersPractice", "PropertyIndexersPractice\PropertyIndexersPractice.csproj", "{55326416-C08A-48C6-8458-161FD09CFBCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55326416-C08A-48C6-8458-161FD09CFBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55326416-C08A-48C6-8458-161FD09CFBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55326416-C08A-48C6-8458-161FD09CFBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55326416-C08A-48C6-8458-161FD09CFBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78794840-7786-46A1-8589-FAD231F8C599}
+	EndGlobalSection
+EndGlobal

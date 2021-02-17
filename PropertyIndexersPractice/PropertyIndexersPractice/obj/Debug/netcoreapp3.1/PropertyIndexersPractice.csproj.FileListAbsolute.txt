@@ -1,0 +1,13 @@
+C:\Users\Esetb\source\repos\PropertyIndexersPractice\PropertyIndexersPractice\bin\Debug\netcoreapp3.1\PropertyIndexersPractice.exe
+C:\Users\Esetb\source\repos\PropertyIndexersPractice\PropertyIndexersPractice\bin\Debug\netcoreapp3.1\PropertyIndexersPractice.deps.json
+C:\Users\Esetb\source\repos\PropertyIndexersPractice\PropertyIndexersPractice\bin\Debug\netcoreapp3.1\PropertyIndexersPractice.runtimeconfig.json
+C:\Users\Esetb\source\repos\PropertyIndexersPractice\PropertyIndexersPractice\bin\Debug\netcoreapp3.1\PropertyIndexersPractice.runtimeconfig.dev.json
+C:\Users\Esetb\source\repos\PropertyIndexersPractice\PropertyIndexersPractice\bin\Debug\netcoreapp3.1\PropertyIndexersPractice.dll
+C:\Users\Esetb\source\repos\PropertyIndexersPractice\PropertyIndexersPractice\bin\Debug\netcoreapp3.1\PropertyIndexersPractice.pdb
+C:\Users\Esetb\source\repos\PropertyIndexersPractice\PropertyIndexersPractice\obj\Debug\netcoreapp3.1\PropertyIndexersPractice.csprojAssemblyReference.cache
+C:\Users\Esetb\source\repos\PropertyIndexersPractice\PropertyIndexersPractice\obj\Debug\netcoreapp3.1\PropertyIndexersPractice.AssemblyInfoInputs.cache
+C:\Users\Esetb\source\repos\PropertyIndexersPractice\PropertyIndexersPractice\obj\Debug\netcoreapp3.1\PropertyIndexersPractice.AssemblyInfo.cs
+C:\Users\Esetb\source\repos\PropertyIndexersPractice\PropertyIndexersPractice\obj\Debug\netcoreapp3.1\PropertyIndexersPractice.csproj.CoreCompileInputs.cache
+C:\Users\Esetb\source\repos\PropertyIndexersPractice\PropertyIndexersPractice\obj\Debug\netcoreapp3.1\PropertyIndexersPractice.dll
+C:\Users\Esetb\source\repos\PropertyIndexersPractice\PropertyIndexersPractice\obj\Debug\netcoreapp3.1\PropertyIndexersPractice.pdb
+C:\Users\Esetb\source\repos\PropertyIndexersPractice\PropertyIndexersPractice\obj\Debug\netcoreapp3.1\PropertyIndexersPractice.genruntimeconfig.cache
